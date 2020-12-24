@@ -1,12 +1,12 @@
 
 .movie{
-    width: 45%;
+    width: 30%;
     background-color: white;
     margin-bottom: 10%;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    height : 50%;
+    height : 40%;
     color:darkgrey;
     font-size: 0.01em;
     cursor: pointer;
@@ -28,11 +28,14 @@
 .movie img{
     position: relative;
     top: -10%;
-    width:40%;
+    width:20%;
+    height: 50%;
     margin-right: 10%;
     box-shadow: 0em 0.5em 0.5em 0em darkgrey;
 }
-
+.movie .data{
+    position: static;
+}
 
 .movie .summary{
     height:30%;
