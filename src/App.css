@@ -31,7 +31,7 @@ body,
 }
 
 .movies .movie{
-    width: 90%;
+    width: 100%;
     background-color: white;
     margin-bottom: 30%;
     display: flex;
@@ -40,8 +40,7 @@ body,
     height : 50%;
     color:darkgrey;
     -webkit-user-drag: element;
-    cursor: -webkit-grab;
-    font-size: 0.01vh;
+    font-size: 0.01em;
 }
 
 .movie .title{
