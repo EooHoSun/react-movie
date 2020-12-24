@@ -1,0 +1,16 @@
+.navigation{
+    width: 5%;
+    margin-right: 90%;
+}
+
+.navigation .link{
+    display: inline;
+    border-color: burlywood;
+    background-color: white;
+    margin-top: 10%;
+    margin-left: 20%;
+    cursor: pointer;
+    color: black;
+    padding: 40%;
+    font-size: 0.2em;
+}
